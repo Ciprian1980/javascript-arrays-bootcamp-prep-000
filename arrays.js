@@ -1,5 +1,5 @@
 function addElementToBeginningOfArray(array, begOfArray){
-  addElementToBeginningOfArray.unshift();
+  addElementToBeginningOfArray.slice();
 }
 return addElementToBeginningOfArray;
 
